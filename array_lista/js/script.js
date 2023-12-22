@@ -13,3 +13,9 @@ const basketFruit = [
 ]
 
 console.log(basketFruit)
+
+/**Aggiungo la pesca alla lista */
+
+basketFruit.push('pesca')
+
+console.log(basketFruit)
