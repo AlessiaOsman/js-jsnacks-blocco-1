@@ -19,3 +19,5 @@ console.log(basketFruit)
 basketFruit.push('pesca')
 
 console.log(basketFruit)
+
+let message = ''
